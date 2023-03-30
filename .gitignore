@@ -13,3 +13,14 @@ lectures/data/housing-kaggle
 *.pyc
 *.tsv
 *.wav
+*.pl
+*.sh
+*.data
+*.genre
+*.info
+*.item
+*.occupation
+*.user
+*.base
+*.test
+hw/hw7/data/ml-100k/README
